@@ -8,11 +8,11 @@
         }
     },
     "dependencies": {
-        "Microsoft.AspNetCore.Mvc": "1.0.0-*",
+        "Microsoft.AspNetCore.Mvc": "1.0.0",
         "X.PagedList": "*",
         "Microsoft.NETCore.App": {
             "type": "platform",
-            "version": "1.0.0-rc2-*"
+            "version": "1.0.0"
         }
     },
 
